@@ -35,9 +35,9 @@ The server returns a response.
     Date: Sat, 02 Apr 2011 21:05:05 GMT
     Server: lighttpd/1.4.19
     Content-Type: text/html
-    
+
     <html>
       <!-- ... HTML for the xkcd comic -->
     </html>
 
-The first line is the http resoponse status.
+The first line is the http response status.
