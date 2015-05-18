@@ -1,6 +1,6 @@
 #HTTP Request with javascript
 
-We use Asychronus JavaScript and XML (AJAX) to create http request with javascript. Specifically we use the XMLHttpRequest javascript object to communicate with the server. This object can send and receive information. XMLHttpRequest is also asychronus and can send/recieve information without reloading the brower.
+We use Asychronous JavaScript and XML (AJAX) to create http requests with javascript. Specifically we use the XMLHttpRequest javascript object to communicate with the server. This object can send and receive information. XMLHttpRequest is also asychronous and can send/receive information without reloading the browser.
 
 ##Step1: How to make an HTTP request
 
